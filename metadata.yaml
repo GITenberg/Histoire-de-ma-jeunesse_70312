@@ -1,0 +1,42 @@
+_repo: Histoire-de-ma-jeunesse_70312
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Humboldt, Alexandre de
+    gutenberg_agent_id: '55702'
+    url: http://www.gutenberg.org/2009/agents/55702
+creator:
+  author:
+    agent_name: Arago, F. (François)
+    aliases:
+    - Arago, François
+    - Aragó, Francesc Joan Dominic
+    - Arago, Francesc Joan Dominic
+    - Arago, Dominique François Jean
+    - Arago, F. (Francois)
+    birthdate: 1786
+    deathdate: 1853
+    gutenberg_agent_id: '6924'
+    url: http://www.gutenberg.org/2009/agents/6924
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Arago
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Arago
+description: ''
+gutenberg_issued: '2023-03-17'
+identifiers:
+  gutenberg: '70312'
+language: fr
+pgterms:marc904: https://books.google.com/books?id=Z7s9AAAAcAAJ
+pgterms:marc905: 20230312122428arago
+pgterms:marc906: '1854'
+pgterms:marc907: BE
+production_note: René Galluvot (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aBelgium :$bKiessling, Schnée & Cie, $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Histoire de ma jeunesse
+url: http://www.gutenberg.org/ebooks/70312
