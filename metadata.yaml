@@ -5,6 +5,9 @@ contributor:
     agent_name: Humboldt, Alexandre de
     gutenberg_agent_id: '55702'
     url: http://www.gutenberg.org/2009/agents/55702
+covers:
+- cover_type: archival
+  image_path: 70312-h/images/cover.jpg
 creator:
   author:
     agent_name: Arago, F. (François)
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Fran%C3%A7ois_Arago
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Arago
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70312#Histoire-de-ma-jeunesse
 gutenberg_issued: '2023-03-17'
 identifiers:
   gutenberg: '70312'
